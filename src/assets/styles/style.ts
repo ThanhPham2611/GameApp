@@ -1,0 +1,1 @@
+export const COLOR_BUTTON_PRIMARY= '#A40C0C';
